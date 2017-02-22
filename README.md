@@ -15,7 +15,10 @@ Projeto Livraria para Cadastro de Livros utilizando as tecnologias:
 + Com o botão direito no projeto ir em > Run As > Maven Install. Estando tudo ok, será exibido uma mensagem "[INFO] BUILD SUCCESS";
 + Para executar o projeto, basta adicionar o mesmo no servidor Apache Tomcat;
 
-+ Endereço do Projeot: 
++ Endereço do Projeto: 
 ```
 http://localhost:8080/BookStore/book/
 ```
+
+# Resultado do Desenvolvimento
+![alt tag](https://raw.githubusercontent.com/diogomarcos/BookStore/master/result.PNG)
